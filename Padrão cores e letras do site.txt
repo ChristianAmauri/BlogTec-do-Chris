@@ -1,0 +1,7 @@
+Cores
+#3b3b5e - Padrão fundo Violeta pastel - Cabeçalho
+#00a9ff - Padrão fundo Azul pastel - Destaques
+
+Fontes
+Título - Bauhaus 93
+

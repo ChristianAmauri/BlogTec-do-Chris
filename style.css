@@ -14,7 +14,7 @@ p {
 
 h1 {
     text-align: center;
-    font-style: unset;
+    font-style: Bauhaus;
     font-weight: bold;
     font-size: 40px;
 
@@ -26,7 +26,7 @@ h3 {
 
 nav {   
     min-height: 80px;
-    background-color: #74c3d0;
+    background-color: #3b3b5e;
     padding: 0 5%;
     position: sticky;
     top: 0;
@@ -37,7 +37,7 @@ nav {
 }
 
 nav > a {
-    color: black;
+    color: white;
     font-size: 25px;
     font-style: unset;
     font-weight: bold;
@@ -74,7 +74,7 @@ main {
 }
 
 #quote {
-    background-color: #c8f4d5;
+    background-color: #00a9ff;
     padding: 20px;
     margin-top: 10px;
     text-align: center;
@@ -146,7 +146,7 @@ main {
 
 #skills {
     grid-area: skills;
-    background-color: #c8f4d5;
+    background-color: #00a9ff;
     margin: 10px 0 10px 10px;
     padding: 20px;
 }
@@ -157,7 +157,7 @@ main {
 }
 
 footer {
-    background-color: #3e3e3e;
+    background-color: #3b3b5e;
     color: lightgray;
     padding: 10px 11%;
     display: flex;
